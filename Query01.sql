@@ -1,3 +1,6 @@
+-- Consulta realizada no Data Warehouse AdventureWorksDW2012
+-- Banco de dados exemplo da Microsoft
+
 SELECT DimCustomer.FirstName, 
 DimCustomer.LastName, 
 DimCustomer.Gender, 
